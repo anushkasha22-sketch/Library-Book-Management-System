@@ -1,5 +1,3 @@
-# DBMS TAE-2 Submission
-
 Student: Anushka Sharma
 Roll No.: P09
 Project: Library Book Issue & Return Management System
